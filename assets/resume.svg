@@ -15,7 +15,7 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="resume.svg">
   <defs
      id="defs4">
@@ -48,46 +48,53 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="393.86073"
-     inkscape:cy="121.13261"
+     inkscape:cx="338.28534"
+     inkscape:cy="600.4157"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1317"
-     inkscape:window-height="744"
-     inkscape:window-x="49"
-     inkscape:window-y="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1">
     <sodipodi:guide
        position="713.1677,919.23884"
        orientation="1,0"
-       id="guide3338" />
+       id="guide3338"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="985.90889,48.487323"
        orientation="0,1"
-       id="guide3342" />
+       id="guide3342"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="160,30.714286"
        orientation="1,0"
-       id="guide3365" />
+       id="guide3365"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="293.95439,1074.8023"
        orientation="1,0"
-       id="guide4472" />
+       id="guide4472"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="307.5,1015.3572"
        orientation="1,0"
-       id="guide4476" />
+       id="guide4476"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="341.93664,948.02818"
        orientation="1,0"
-       id="guide4852" />
+       id="guide4852"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="70.000001,718.57144"
        orientation="1,0"
-       id="guide5707" />
+       id="guide5707"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -107,16 +114,15 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="46.996761"
        y="279.00348"
-       id="text3361"
-       sodipodi:linespacing="125%"><tspan
+       id="text3361"><tspan
          sodipodi:role="line"
          id="tspan3363"
          x="46.996761"
          y="279.00348"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#008080;">SOLAIMAN MANSYUR</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#008080">SOLAIMAN MANSYUR</tspan></text>
     <path
        style="fill:#808080;fill-rule:evenodd;stroke:#008080;stroke-width:1.0010848;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77514792"
        d="m 40.406103,-0.47934805 0,1053.85174805"
@@ -133,56 +139,57 @@
        id="path4434"
        inkscape:connector-curvature="0" />
     <text
-       sodipodi:linespacing="125%"
        id="text4442"
-       y="104.67172"
+       y="50.296722"
        x="341.20914"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#008080;"
-         y="104.67172"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#008080"
+         y="50.296722"
          x="341.20914"
          id="tspan4444"
          sodipodi:role="line">OBJECTIVE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="307.32397"
-       y="149.55315"
-       id="text4462"
-       sodipodi:linespacing="125%"><tspan
+       y="95.178146"
+       id="text4462"><tspan
          sodipodi:role="line"
          x="307.32397"
-         y="149.55315"
-         id="tspan6687">I am seeking a career to lead me towards management in a software engineering or </tspan><tspan
+         y="95.178146"
+         id="tspan6687"
+         style="font-size:10px;line-height:1.25">I am seeking a career to lead me towards management in a software engineering or </tspan><tspan
          sodipodi:role="line"
          x="307.32397"
-         y="162.05315"
-         id="tspan6891">digital creative environment that will continually challenge my problem solving and </tspan><tspan
+         y="107.67815"
+         id="tspan6891"
+         style="font-size:10px;line-height:1.25">digital creative environment that will continually challenge my problem solving and </tspan><tspan
          sodipodi:role="line"
          x="307.32397"
-         y="174.55315"
-         id="tspan6893">analytical skills across a broad spectrum of technologies.</tspan></text>
+         y="120.17815"
+         id="tspan6893"
+         style="font-size:10px;line-height:1.25">analytical skills across a broad spectrum of technologies.</tspan></text>
     <circle
        style="fill:#008080"
        r="20.203051"
-       cy="224.83496"
+       cy="164.83496"
        cx="314.40817"
        id="circle4448" />
     <path
        id="path4564"
-       d="m 311.69638,216.38922 6.28572,0 0,-1.83336 -6.28572,0 0,1.83336 z m 14.14287,9.16669 0,6.87496 q 0,0.94531 -0.57701,1.61851 -0.57701,0.67317 -1.38727,0.67317 l -18.07144,0 q -0.81027,0 -1.38728,-0.67317 -0.577,-0.6732 -0.577,-1.61851 l 0,-6.87496 8.25,0 0,2.29164 q 0,0.37238 0.23325,0.64453 0.23326,0.27214 0.55247,0.27214 l 3.92856,0 q 0.3192,0 0.55246,-0.27214 0.23326,-0.27215 0.23326,-0.64453 l 0,-2.29164 8.25,0 z m -9.42857,0 0,1.83331 -3.14286,0 0,-1.83331 3.14286,0 z m 9.42857,-6.87505 0,5.50001 -22,0 0,-5.50001 q 0,-0.94531 0.57701,-1.61847 0.577,-0.67317 1.38727,-0.67317 l 4.32144,0 0,-2.29167 q 0,-0.57294 0.34375,-0.97395 0.34375,-0.40105 0.83481,-0.40105 l 7.07144,0 q 0.49106,0 0.83481,0.40105 0.34375,0.40101 0.34375,0.97395 l 0,2.29167 4.32144,0 q 0.81026,0 1.38727,0.67317 0.57701,0.67316 0.57701,1.61847 z"
+       d="m 311.69638,156.38922 h 6.28572 v -1.83336 h -6.28572 z m 14.14287,9.16669 v 6.87496 q 0,0.94531 -0.57701,1.61851 -0.57701,0.67317 -1.38727,0.67317 h -18.07144 q -0.81027,0 -1.38728,-0.67317 -0.577,-0.6732 -0.577,-1.61851 v -6.87496 h 8.25 v 2.29164 q 0,0.37238 0.23325,0.64453 0.23326,0.27214 0.55247,0.27214 h 3.92856 q 0.3192,0 0.55246,-0.27214 0.23326,-0.27215 0.23326,-0.64453 v -2.29164 z m -9.42857,0 v 1.83331 h -3.14286 v -1.83331 z m 9.42857,-6.87505 v 5.50001 h -22 v -5.50001 q 0,-0.94531 0.57701,-1.61847 0.577,-0.67317 1.38727,-0.67317 h 4.32144 v -2.29167 q 0,-0.57294 0.34375,-0.97395 0.34375,-0.40105 0.83481,-0.40105 h 7.07144 q 0.49106,0 0.83481,0.40105 0.34375,0.40101 0.34375,0.97395 v 2.29167 h 4.32144 q 0.81026,0 1.38727,0.67317 0.57701,0.67316 0.57701,1.61847 z"
        inkscape:connector-curvature="0"
        style="fill:#ffffff" />
     <circle
        id="path3500"
        cx="314.17776"
-       cy="100.7985"
+       cy="46.4235"
        r="20.203051"
        style="fill:#008080" />
     <path
        id="path4630"
-       d="m 321.10678,93.877266 q 0,-0.5392 -0.37723,-0.9166 -0.37723,-0.3775 -0.91612,-0.3775 -0.5389,0 -0.91613,0.3775 -0.37722,0.3774 -0.37722,0.9166 0,0.5392 0.37722,0.9167 0.37723,0.3774 0.91613,0.3774 0.53889,0 0.91612,-0.3774 0.37723,-0.3775 0.37723,-0.9167 z m 3.01782,-3.8823 q 0,3.3566 -1.01717,5.8033 -1.01716,2.4467 -3.41525,4.859704 -1.09127,1.0784 -2.62713,2.3725 l -0.26944,5.1091 q -0.0269,0.2157 -0.21556,0.3505 l -5.17341,3.0196 q -0.0943,0.054 -0.21556,0.054 -0.16167,0 -0.30987,-0.1213 l -0.86223,-0.8628 q -0.17514,-0.1887 -0.10778,-0.4313 l 1.14515,-3.7206 -3.78575,-3.788 -3.71839,1.1458 q -0.0404,0.014 -0.12125,0.014 -0.18861,0 -0.30986,-0.1213 l -0.86224,-0.8628 q -0.22903,-0.2561 -0.0674,-0.5257 l 3.01782,-5.176504 q 0.13473,-0.1887 0.35029,-0.2157 l 5.10604,-0.2696 q 1.29336,-1.5367 2.37115,-2.6287 2.53281,-2.5208 4.82313,-3.4779 2.29031,-0.9571 5.80661,-0.9571 0.18861,0 0.32334,0.1281 0.13472,0.128 0.13472,0.3033 z"
+       d="m 321.10678,39.502266 q 0,-0.5392 -0.37723,-0.9166 -0.37723,-0.3775 -0.91612,-0.3775 -0.5389,0 -0.91613,0.3775 -0.37722,0.3774 -0.37722,0.9166 0,0.5392 0.37722,0.9167 0.37723,0.3774 0.91613,0.3774 0.53889,0 0.91612,-0.3774 0.37723,-0.3775 0.37723,-0.9167 z m 3.01782,-3.8823 q 0,3.3566 -1.01717,5.8033 -1.01716,2.4467 -3.41525,4.859704 -1.09127,1.0784 -2.62713,2.3725 l -0.26944,5.1091 q -0.0269,0.2157 -0.21556,0.3505 l -5.17341,3.0196 q -0.0943,0.054 -0.21556,0.054 -0.16167,0 -0.30987,-0.1213 l -0.86223,-0.8628 q -0.17514,-0.1887 -0.10778,-0.4313 l 1.14515,-3.7206 -3.78575,-3.788 -3.71839,1.1458 q -0.0404,0.014 -0.12125,0.014 -0.18861,0 -0.30986,-0.1213 l -0.86224,-0.8628 q -0.22903,-0.2561 -0.0674,-0.5257 l 3.01782,-5.176504 q 0.13473,-0.1887 0.35029,-0.2157 l 5.10604,-0.2696 q 1.29336,-1.5367 2.37115,-2.6287 2.53281,-2.5208 4.82313,-3.4779 2.29031,-0.9571 5.80661,-0.9571 0.18861,0 0.32334,0.1281 0.13472,0.128 0.13472,0.3033 z"
        inkscape:connector-curvature="0"
        style="fill:#ffffff" />
     <circle
@@ -286,136 +293,131 @@
        inkscape:connector-curvature="0"
        style="fill:#ffffff" />
     <text
-       sodipodi:linespacing="125%"
        id="text5703"
        y="358.43207"
        x="69.727638"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.75px;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333;"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333"
          y="358.43207"
          x="69.727638"
          id="tspan5705"
-         sodipodi:role="line">http://solaiman.me</tspan></text>
+         sodipodi:role="line">https://solaiman.me</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="69.727638"
        y="384.43207"
-       id="text5713"
-       sodipodi:linespacing="125%"><tspan
+       id="text5713"><tspan
          sodipodi:role="line"
          id="tspan5715"
          x="69.727638"
          y="384.43207"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.75px;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333">solaiman.mansyur@gmail.com</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333">solaiman.mansyur@gmail.com</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text5717"
        y="408.43207"
        x="69.727638"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.75px;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333"
          y="408.43207"
          x="69.727638"
          id="tspan5719"
          sodipodi:role="line">id.linkedin.com/in/emanmks</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text5725"
        y="432.43207"
        x="69.727638"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.75px;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333"
          y="432.43207"
          x="69.727638"
          id="tspan5727"
          sodipodi:role="line">github.com/emanmks</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="69.727638"
        y="456.43207"
-       id="text5729"
-       sodipodi:linespacing="125%"><tspan
+       id="text5729"><tspan
          sodipodi:role="line"
          id="tspan5731"
          x="69.727638"
          y="456.43207"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.75px;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333">+60 11 391 47 821</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333">+60 11 391 47 821</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text5733"
        y="478.43207"
        x="69.727638"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333"
          y="478.43207"
          x="69.727638"
-         id="tspan5735"
-         sodipodi:role="line">PELANGI UTAMA B-9-9 PJU 6A,</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333"
+         sodipodi:role="line"
+         id="tspan5737">Jalan Persiaran Subang Permai, </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333"
          y="494.05707"
          x="69.727638"
          sodipodi:role="line"
-         id="tspan5737">JALAN LORONG MASJID, 47400</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333"
+         id="tspan1226">Subang Jaya, 47500,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333"
          y="509.68207"
          x="69.727638"
          sodipodi:role="line"
-         id="tspan5739">PETALING JAYA SELANGOR</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333"
+         id="tspan1228">Selangor Darul Ehsan</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333"
+         y="518.72949"
+         x="69.727638"
+         sodipodi:role="line"
+         id="tspan5739" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#333333"
          y="525.30707"
          x="69.727638"
          sodipodi:role="line"
          id="tspan5741">MALAYSIA</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text5743"
        y="582.67871"
        x="69.138542"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#008080;"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#008080"
          y="582.67871"
          x="69.138542"
          id="tspan5745"
          sodipodi:role="line">TECH SKILLS</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="68.84375"
        y="619.19598"
-       id="text5747"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:13.75px"
+       id="text5747"><tspan
+         style="font-size:13.75px;line-height:1.25"
          sodipodi:role="line"
          id="tspan5749"
          x="68.84375"
          y="619.19598">Ubuntu OS</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text5751"
        y="738.26746"
        x="68.665184"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="738.26746"
          x="68.665184"
          id="tspan5753"
          sodipodi:role="line"
-         style="font-size:13.75px">Bash Script</tspan></text>
+         style="font-size:13.75px;line-height:1.25">Bash Script</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="68.700897"
        y="762.80316"
-       id="text5755"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:13.75px"
+       id="text5755"><tspan
+         style="font-size:13.75px;line-height:1.25"
          sodipodi:role="line"
          id="tspan5757"
          x="68.700897"
@@ -613,17 +615,16 @@
        cx="271.9964"
        id="circle5853" />
     <text
-       sodipodi:linespacing="125%"
        id="text5887"
-       y="271.55316"
+       y="280.92816"
        x="307.32397"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan5897"
-         y="271.55316"
+         y="280.92816"
          x="307.32397"
          sodipodi:role="line"
-         style="font-size:11.25px"><tspan
+         style="font-size:11.25px;line-height:1.25"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:Umpush;-inkscape-font-specification:'Umpush Bold';fill:#008080"
            id="tspan5943">APPLICATION DEVELOPER</tspan><tspan
            style="fill:#008080"
@@ -633,53 +634,52 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Umpush;-inkscape-font-specification:Umpush"
            id="tspan5989"> [<tspan
    style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Umpush;-inkscape-font-specification:'Umpush Oblique'"
-   id="tspan5993">Sep 2015 - Now</tspan>]</tspan></tspan><tspan
-         y="287.13626"
+   id="tspan5993">Sep 2015 - Jan 2017</tspan>]</tspan></tspan><tspan
+         y="294.63544"
          x="307.32397"
          sodipodi:role="line"
          id="tspan5927"
-         style="font-size:10px">Enhance &amp; Support Logistics and Supply Management Software for Distributor </tspan><tspan
-         y="299.63626"
+         style="font-size:10px;line-height:1.25">Enhance &amp; Support Logistics and Supply Management Software for Distributor </tspan><tspan
+         y="307.13544"
          x="307.32397"
          sodipodi:role="line"
          id="tspan5929"
-         style="font-size:10px">Companies in the regions of Asia. </tspan><tspan
-         y="312.13626"
+         style="font-size:10px;line-height:1.25">Companies in the regions of Asia. </tspan><tspan
+         y="319.63544"
          x="307.32397"
          sodipodi:role="line"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          id="tspan6005">It consists of Distributor Management System, Control Panel and Business Intelligence </tspan><tspan
-         y="324.63626"
+         y="332.13544"
          x="307.32397"
          sodipodi:role="line"
          id="tspan5937"
-         style="font-size:10px">that implement Distributed System, Application Programing Interface, </tspan><tspan
-         y="337.13626"
+         style="font-size:10px;line-height:1.25">that implement Distributed System, Application Programing Interface, </tspan><tspan
+         y="344.63544"
          x="307.32397"
          sodipodi:role="line"
          id="tspan5941"
-         style="font-size:10px">Complex Synchronization Automation, Extract Transform Load (ETL) for Business </tspan><tspan
-         y="349.63626"
+         style="font-size:10px;line-height:1.25">Complex Synchronization Automation, Extract Transform Load (ETL) for Business </tspan><tspan
+         y="357.13544"
          x="307.32397"
          sodipodi:role="line"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          id="tspan5983">Intelligence, using full stack technologies such as Bash Script, PHP, Python, Clojure, </tspan><tspan
-         y="362.13626"
+         y="369.63544"
          x="307.32397"
          sodipodi:role="line"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          id="tspan6023">BackboneJS, Pentaho Data Integration, javascript, etc.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="307.02811"
-       y="392.41031"
-       id="text6055"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:11.25px"
+       y="398.03531"
+       id="text6055"><tspan
+         style="font-size:11.25px;line-height:1.25"
          sodipodi:role="line"
          x="307.02811"
-         y="392.41031"
+         y="398.03531"
          id="tspan6057"><tspan
            id="tspan6059"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:Umpush;-inkscape-font-specification:'Umpush Bold';fill:#008080">LEAD DEVELOPER</tspan><tspan
@@ -692,32 +692,31 @@
            id="tspan6142"
            style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Umpush;-inkscape-font-specification:'Umpush Oblique'">Mar 2015 - Aug 2015]</tspan></tspan><tspan
          id="tspan6079"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          sodipodi:role="line"
          x="307.02811"
-         y="407.99341">As a Technical Lead Developer, lead the team to develop cloud-based accounting </tspan><tspan
-         style="font-size:10px"
+         y="411.74258">As a Technical Lead Developer, lead the team to develop cloud-based accounting </tspan><tspan
+         style="font-size:10px;line-height:1.25"
          sodipodi:role="line"
          x="307.02811"
-         y="420.49341"
+         y="424.24258"
          id="tspan6108">application (www.simpankira.com) using laravel framework. Develop the core modules </tspan><tspan
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          sodipodi:role="line"
          x="307.02811"
-         y="432.99341"
+         y="436.74258"
          id="tspan6110">of Accounting Modules using repository pattern and with multitenancy.</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text6112"
-       y="462.41031"
+       y="468.03531"
        x="307.02811"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan6114"
-         y="462.41031"
+         y="468.03531"
          x="307.02811"
          sodipodi:role="line"
-         style="font-size:11.25px"><tspan
+         style="font-size:11.25px;line-height:1.25"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:Umpush;-inkscape-font-specification:'Umpush Bold';fill:#008080"
            id="tspan6116">LEAD DEVELOPER</tspan><tspan
            style="fill:#008080"
@@ -728,32 +727,31 @@
            id="tspan6120"> [<tspan
    style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Umpush;-inkscape-font-specification:'Umpush Oblique'"
    id="tspan6130">Jul 2012 - Dec 2014</tspan>]</tspan></tspan><tspan
-         y="477.99341"
+         y="481.74258"
          x="307.02811"
          sodipodi:role="line"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          id="tspan6149">Develop and maintain various projects. Help customers to design &amp; develop software </tspan><tspan
-         y="490.49341"
+         y="494.24258"
          x="307.02811"
          sodipodi:role="line"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          id="tspan6153">based on their requirements and problems they need to fix. Provide documentation, </tspan><tspan
-         y="502.99341"
+         y="506.74258"
          x="307.02811"
          sodipodi:role="line"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          id="tspan6155">hands on training, maintenance and support.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="307.02811"
-       y="532.41028"
-       id="text6161"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:11.25px"
+       y="538.03528"
+       id="text6161"><tspan
+         style="font-size:11.25px;line-height:1.25"
          sodipodi:role="line"
          x="307.02811"
-         y="532.41028"
+         y="538.03528"
          id="tspan6163"><tspan
            id="tspan6165"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:Umpush;-inkscape-font-specification:'Umpush Bold';fill:#008080">BRANCH MANAGER</tspan><tspan
@@ -765,28 +763,27 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Umpush;-inkscape-font-specification:Umpush"> [<tspan
    id="tspan6171"
    style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Umpush;-inkscape-font-specification:'Umpush Oblique'">Jul 2010 - Jun 2012</tspan>]</tspan></tspan><tspan
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          sodipodi:role="line"
          x="307.02811"
-         y="547.99341"
+         y="551.74255"
          id="tspan6207">Manage company's resources to run learning centre business. Supervise employees </tspan><tspan
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          sodipodi:role="line"
          x="307.02811"
-         y="560.49341"
+         y="564.24255"
          id="tspan6211">and tutors, have a meeting with clients, have a meeting and consultation with parents.</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text6213"
-       y="588.41028"
+       y="594.03528"
        x="307.02811"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan6215"
-         y="588.41028"
+         y="594.03528"
          x="307.02811"
          sodipodi:role="line"
-         style="font-size:11.25px"><tspan
+         style="font-size:11.25px;line-height:1.25"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:Umpush;-inkscape-font-specification:'Umpush Bold';fill:#008080"
            id="tspan6217">PROGRAMMER</tspan><tspan
            style="fill:#008080"
@@ -797,29 +794,28 @@
            id="tspan6221"> [Oct<tspan
    style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Umpush;-inkscape-font-specification:'Umpush Oblique'"
    id="tspan6223"> 2007 - Jun 2010</tspan>]</tspan></tspan><tspan
-         y="603.99341"
+         y="607.74255"
          x="307.02811"
          sodipodi:role="line"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          id="tspan6231">Develop and maintain applications for learning centre. Setup IT infrasctructure, </tspan><tspan
-         y="616.49341"
+         y="620.24255"
          x="307.02811"
          sodipodi:role="line"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          id="tspan6235">provide end user training, on-site support, etc. Almost of the development processes</tspan><tspan
-         y="628.99341"
+         y="632.74255"
          x="307.02811"
          sodipodi:role="line"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          id="tspan6237">using and produce Desktop Application.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="307.02811"
        y="719.12457"
-       id="text6239"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:11.25px"
+       id="text6239"><tspan
+         style="font-size:11.25px;line-height:1.25"
          sodipodi:role="line"
          x="307.02811"
          y="719.12457"
@@ -835,44 +831,47 @@
    id="tspan6249"
    style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Umpush;-inkscape-font-specification:'Umpush Oblique'">010 - 2011</tspan>  ]</tspan></tspan><tspan
          id="tspan6255"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          sodipodi:role="line"
          x="307.02811"
-         y="734.7077">INFORMATION TECHNOLOGY. Project : Web Based CRM (Customer Relationship </tspan><tspan
-         style="font-size:10px"
+         y="733.98785">INFORMATION TECHNOLOGY. Project : Web Based CRM (Customer Relationship </tspan><tspan
+         style="font-size:10px;line-height:1.25"
          sodipodi:role="line"
          x="307.02811"
-         y="747.2077"
+         y="746.48785"
          id="tspan6297">Management) using MVC framework.</tspan><tspan
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          sodipodi:role="line"
          x="307.02811"
-         y="759.7077"
+         y="758.98785"
          id="tspan6299">GPA : 3.53</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="76.441933"
-       y="305.28922"
-       id="text6257"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="86.486572"
+       y="304.61957"
+       id="text6257"><tspan
          sodipodi:role="line"
          id="tspan6259"
-         x="76.441933"
-         y="305.28922"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#1a1a1a;">FULL STACK DEVELOPER</tspan></text>
+         x="86.486572"
+         y="304.61957"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#1a1a1a">  SENIOR FULL STACK</tspan><tspan
+         sodipodi:role="line"
+         x="86.486572"
+         y="320.24457"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#1a1a1a"
+         id="tspan1222">SOFTWARE ENGINEER</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text6301"
        y="779.12457"
        x="307.02811"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan6303"
          y="779.12457"
          x="307.02811"
          sodipodi:role="line"
-         style="font-size:11.25px"><tspan
+         style="font-size:11.25px;line-height:1.25"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:Umpush;-inkscape-font-specification:'Umpush Bold';fill:#008080"
            id="tspan6305">DIPLOMA DEGREE</tspan><tspan
            style="fill:#008080"
@@ -884,20 +883,20 @@
    style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Umpush;-inkscape-font-specification:'Umpush Oblique'"
    id="tspan6311">004 - 2007</tspan>  ]</tspan></tspan><tspan
          id="tspan6315"
-         y="794.7077"
+         y="793.98785"
          x="307.02811"
          sodipodi:role="line"
-         style="font-size:10px">ELECTRICAL ENGINEERING. Project : Development of Desktop based Application for </tspan><tspan
-         y="807.2077"
+         style="font-size:10px;line-height:1.25">ELECTRICAL ENGINEERING. Project : Development of Desktop based Application for </tspan><tspan
+         y="806.48785"
          x="307.02811"
          sodipodi:role="line"
-         style="font-size:10px"
+         style="font-size:10px;line-height:1.25"
          id="tspan6321">Supporting Walk-On Registration for new customers of Telkom Flexy Makassar.</tspan><tspan
          id="tspan6317"
-         y="819.7077"
+         y="818.98785"
          x="307.02811"
          sodipodi:role="line"
-         style="font-size:10px">GPA : 3.63</tspan></text>
+         style="font-size:10px;line-height:1.25">GPA : 3.63</tspan></text>
     <circle
        style="fill:#008080"
        r="20.203051"
@@ -911,52 +910,48 @@
        style="fill:#ffffff" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="70.209969"
        y="874.67871"
-       id="text6333"
-       sodipodi:linespacing="125%"><tspan
+       id="text6333"><tspan
          sodipodi:role="line"
          id="tspan6335"
          x="70.209969"
          y="874.67871"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#008080;">LANGUAGES</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#008080">LANGUAGES</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text6337"
        y="912.62457"
        x="68.48661"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="912.62457"
          x="68.48661"
          id="tspan6339"
          sodipodi:role="line"
-         style="font-size:13.75px">INDONESIA</tspan></text>
+         style="font-size:13.75px;line-height:1.25">INDONESIA</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="68.48661"
        y="938.62457"
-       id="text6341"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:13.75px"
+       id="text6341"><tspan
+         style="font-size:13.75px;line-height:1.25"
          sodipodi:role="line"
          id="tspan6343"
          x="68.48661"
          y="938.62457">ENGLISH</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text6345"
        y="964.62457"
        x="70.48661"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="964.62457"
          x="70.48661"
          id="tspan6347"
          sodipodi:role="line"
-         style="font-size:13.75px">ARABIC</tspan></text>
+         style="font-size:13.75px;line-height:1.25">ARABIC</tspan></text>
     <circle
        r="5"
        style="fill:#008080"
@@ -1138,16 +1133,15 @@
        style="fill:#999999"
        r="5" />
     <text
-       sodipodi:linespacing="125%"
        id="text6409"
        y="784.80316"
        x="68.700897"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="784.80316"
          x="68.700897"
          sodipodi:role="line"
-         style="font-size:13.75px"
+         style="font-size:13.75px;line-height:1.25"
          id="tspan6433">Python</tspan></text>
     <circle
        r="5"
@@ -1271,13 +1265,12 @@
        id="circle6459" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="70.32209"
        y="808.80316"
-       id="text6461"
-       sodipodi:linespacing="125%"><tspan
+       id="text6461"><tspan
          id="tspan6463"
-         style="font-size:13.75px"
+         style="font-size:13.75px;line-height:1.25"
          sodipodi:role="line"
          x="70.32209"
          y="808.80316">Javascript</tspan></text>
@@ -1403,12 +1396,11 @@
        r="5" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="68.665184"
        y="690.26746"
-       id="text6509"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:13.75px"
+       id="text6509"><tspan
+         style="font-size:13.75px;line-height:1.25"
          sodipodi:role="line"
          id="tspan6511"
          x="68.665184"
@@ -1474,17 +1466,16 @@
        cx="271.9964"
        id="circle6531" />
     <text
-       sodipodi:linespacing="125%"
        id="text6533"
        y="714.26746"
        x="68.665184"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="714.26746"
          x="68.665184"
          id="tspan6535"
          sodipodi:role="line"
-         style="font-size:13.75px">PostgreSQL</tspan></text>
+         style="font-size:13.75px;line-height:1.25">PostgreSQL</tspan></text>
     <circle
        r="5"
        style="fill:#008080"
@@ -1546,16 +1537,15 @@
        style="fill:#999999"
        r="5" />
     <text
-       sodipodi:linespacing="125%"
        id="text6557"
        y="830.67688"
        x="69.205971"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="830.67688"
          x="69.205971"
          sodipodi:role="line"
-         style="font-size:13.75px"
+         style="font-size:13.75px;line-height:1.25"
          id="tspan6559">CSS</tspan></text>
     <circle
        r="5"
@@ -1678,17 +1668,16 @@
        cx="271.9964"
        id="circle6599" />
     <text
-       sodipodi:linespacing="125%"
        id="text6601"
        y="643.19598"
        x="68.84375"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="643.19598"
          x="68.84375"
          id="tspan6603"
          sodipodi:role="line"
-         style="font-size:13.75px">Containers</tspan></text>
+         style="font-size:13.75px;line-height:1.25">Containers</tspan></text>
     <circle
        r="5"
        style="fill:#008080"
@@ -1762,12 +1751,11 @@
        id="path6629" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="68.84375"
        y="667.19598"
-       id="text6631"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:13.75px"
+       id="text6631"><tspan
+         style="font-size:13.75px;line-height:1.25"
          sodipodi:role="line"
          id="tspan6633"
          x="68.84375"
@@ -1838,36 +1826,34 @@
        width="371.23105"
        height="1.9999919"
        x="341.93665"
-       y="107.36222"
+       y="52.987221"
        ry="0.99999595" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="341.20914"
-       y="230.67172"
-       id="text6665"
-       sodipodi:linespacing="125%"><tspan
+       y="170.67172"
+       id="text6665"><tspan
          sodipodi:role="line"
          id="tspan6667"
          x="341.20914"
-         y="230.67172"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#008080;">EXPERIENCES</tspan></text>
+         y="170.67172"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#008080">EXPERIENCES</tspan></text>
     <rect
        ry="0.99999595"
-       y="233.36221"
+       y="173.36221"
        x="341.93665"
        height="1.9999919"
        width="371.23105"
        id="rect6669"
        style="fill:#008080;fill-opacity:0.67058824;stroke:#2d2c2c;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77514792" />
     <text
-       sodipodi:linespacing="125%"
        id="text6671"
        y="680.67175"
        x="341.20914"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#008080;"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#008080"
          y="680.67175"
          x="341.20914"
          id="tspan6673"
@@ -1882,16 +1868,15 @@
        ry="0.99999595" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="341.20914"
        y="868.67175"
-       id="text6677"
-       sodipodi:linespacing="125%"><tspan
+       id="text6677"><tspan
          sodipodi:role="line"
          id="tspan6679"
          x="341.20914"
          y="868.67175"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#008080;">EXPERTISES</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';fill:#008080">EXPERTISES</tspan></text>
     <rect
        ry="0.99999595"
        y="871.36218"
@@ -1909,16 +1894,15 @@
        y="982.43182"
        ry="7.250001" />
     <text
-       sodipodi:linespacing="125%"
        id="text6735"
        y="993.1712"
        x="313.86151"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="993.1712"
          x="313.86151"
          sodipodi:role="line"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          id="tspan6737">education</tspan></text>
     <rect
        ry="7.250001"
@@ -1930,13 +1914,12 @@
        style="fill:#008080;fill-opacity:0.67058824;stroke:#2d2c2c;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77514792" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="373.16702"
        y="993.1712"
-       id="text6743"
-       sodipodi:linespacing="125%"><tspan
+       id="text6743"><tspan
          id="tspan6745"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          sodipodi:role="line"
          x="373.16702"
          y="993.1712">multimedia</tspan></text>
@@ -1949,16 +1932,15 @@
        y="982.43182"
        ry="7.250001" />
     <text
-       sodipodi:linespacing="125%"
        id="text6749"
        y="993.1712"
        x="435.16702"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="993.1712"
          x="435.16702"
          sodipodi:role="line"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          id="tspan6751">accounting</tspan></text>
     <rect
        ry="7.2500014"
@@ -1970,13 +1952,12 @@
        style="fill:#008080;fill-opacity:0.67058824;stroke:#2d2c2c;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77514792" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="496.42969"
        y="993.1712"
-       id="text6755"
-       sodipodi:linespacing="125%"><tspan
+       id="text6755"><tspan
          id="tspan6757"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          sodipodi:role="line"
          x="496.42969"
          y="993.1712">logistics</tspan></text>
@@ -1989,16 +1970,15 @@
        y="982.43182"
        ry="7.2500024" />
     <text
-       sodipodi:linespacing="125%"
        id="text6761"
        y="992.91858"
        x="543.37891"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="992.91858"
          x="543.37891"
          sodipodi:role="line"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          id="tspan6763">retail</tspan></text>
     <rect
        ry="7.2500014"
@@ -2010,13 +1990,12 @@
        style="fill:#008080;fill-opacity:0.67058824;stroke:#2d2c2c;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77514792" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="425.85602"
        y="905.54041"
-       id="text6769"
-       sodipodi:linespacing="125%"><tspan
+       id="text6769"><tspan
          id="tspan6771"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          sodipodi:role="line"
          x="425.85602"
          y="905.54041">big data</tspan></text>
@@ -2030,13 +2009,12 @@
        style="fill:#008080;fill-opacity:0.67058824;stroke:#2d2c2c;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77514792" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="629.37891"
        y="992.91858"
-       id="text6775"
-       sodipodi:linespacing="125%"><tspan
+       id="text6775"><tspan
          id="tspan6777"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          sodipodi:role="line"
          x="629.37891"
          y="992.91858">R&amp;D</tspan></text>
@@ -2050,13 +2028,12 @@
        style="fill:#008080;fill-opacity:0.67058824;stroke:#2d2c2c;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77514792" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="313.86151"
        y="905.1712"
-       id="text6781"
-       sodipodi:linespacing="125%"><tspan
+       id="text6781"><tspan
          id="tspan6783"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          sodipodi:role="line"
          x="313.86151"
          y="905.1712">business intelligence</tspan></text>
@@ -2069,16 +2046,15 @@
        id="rect6785"
        style="fill:#008080;fill-opacity:0.67058824;stroke:#2d2c2c;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77514792" />
     <text
-       sodipodi:linespacing="125%"
        id="text6787"
        y="993.55957"
        x="577.44751"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="993.55957"
          x="577.44751"
          sodipodi:role="line"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          id="tspan6789">medical</tspan></text>
     <rect
        style="fill:#008080;fill-opacity:0.67058824;stroke:#2d2c2c;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77514792"
@@ -2089,16 +2065,15 @@
        y="938.43176"
        ry="7.249999" />
     <text
-       sodipodi:linespacing="125%"
        id="text6793"
        y="949.1712"
        x="313.86151"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="949.1712"
          x="313.86151"
          sodipodi:role="line"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          id="tspan6795">software architecture</tspan></text>
     <rect
        ry="7.249999"
@@ -2110,13 +2085,12 @@
        style="fill:#008080;fill-opacity:0.67058824;stroke:#2d2c2c;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77514792" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="429.86151"
        y="949.1712"
-       id="text6799"
-       sodipodi:linespacing="125%"><tspan
+       id="text6799"><tspan
          id="tspan6801"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          sodipodi:role="line"
          x="429.86151"
          y="949.1712">database modelling</tspan></text>
@@ -2129,16 +2103,15 @@
        y="938.43176"
        ry="7.2499986" />
     <text
-       sodipodi:linespacing="125%"
        id="text6805"
        y="949.1712"
        x="543.86151"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="949.1712"
          x="543.86151"
          sodipodi:role="line"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          id="tspan6807">test driven development</tspan></text>
     <rect
        ry="7.249999"
@@ -2150,13 +2123,12 @@
        style="fill:#008080;fill-opacity:0.67058824;stroke:#2d2c2c;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77514792" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="313.86151"
        y="971.1712"
-       id="text6811"
-       sodipodi:linespacing="125%"><tspan
+       id="text6811"><tspan
          id="tspan6813"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          sodipodi:role="line"
          x="313.86151"
          y="971.1712">continous deployment</tspan></text>
@@ -2169,28 +2141,26 @@
        y="960.43176"
        ry="7.2499995" />
     <text
-       sodipodi:linespacing="125%"
        id="text6817"
        y="971.1712"
        x="433.86151"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="971.1712"
          x="433.86151"
          sodipodi:role="line"
-         style="font-size:10px"
-         id="tspan6819" /></text>
+         style="font-size:10px;line-height:1.25"
+         id="tspan6819"> </tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text6821"
        y="971.1712"
        x="437.39703"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="971.1712"
          x="437.39703"
          sodipodi:role="line"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          id="tspan6823">sync automation</tspan></text>
     <rect
        style="fill:#008080;fill-opacity:0.67058824;stroke:#2d2c2c;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77514792"
@@ -2202,13 +2172,12 @@
        ry="7.2499995" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="476.42969"
        y="905.1712"
-       id="text6827"
-       sodipodi:linespacing="125%"><tspan
+       id="text6827"><tspan
          id="tspan6829"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          sodipodi:role="line"
          x="476.42969"
          y="905.1712">human resources</tspan></text>
@@ -2222,13 +2191,12 @@
        style="fill:#008080;fill-opacity:0.67058824;stroke:#2d2c2c;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77514792" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="535.39703"
        y="971.1712"
-       id="text6833"
-       sodipodi:linespacing="125%"><tspan
+       id="text6833"><tspan
          id="tspan6835"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          sodipodi:role="line"
          x="535.39703"
          y="971.1712">security &amp; ACL</tspan></text>
@@ -2241,16 +2209,15 @@
        y="960.43176"
        ry="7.25" />
     <text
-       sodipodi:linespacing="125%"
        id="text6858"
        y="971.1712"
        x="621.39703"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="971.1712"
          x="621.39703"
          sodipodi:role="line"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          id="tspan6860">security &amp; ACL</tspan></text>
     <rect
        style="fill:#008080;fill-opacity:0.67058824;stroke:#2d2c2c;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77514792"
@@ -2261,16 +2228,15 @@
        y="916.43176"
        ry="7.2499981" />
     <text
-       sodipodi:linespacing="125%"
        id="text6864"
        y="927.1712"
        x="313.86151"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="927.1712"
          x="313.86151"
          sodipodi:role="line"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          id="tspan6866">object oriented programming</tspan></text>
     <rect
        ry="7.2500005"
@@ -2282,13 +2248,12 @@
        style="fill:#008080;fill-opacity:0.67058824;stroke:#2d2c2c;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77514792" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="471.86151"
        y="927.1712"
-       id="text6870"
-       sodipodi:linespacing="125%"><tspan
+       id="text6870"><tspan
          id="tspan6872"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          sodipodi:role="line"
          x="471.86151"
          y="927.1712">SOLID</tspan></text>
@@ -2301,16 +2266,15 @@
        y="916.43176"
        ry="7.2499971" />
     <text
-       sodipodi:linespacing="125%"
        id="text6876"
        y="927.1712"
        x="519.86151"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="927.1712"
          x="519.86151"
          sodipodi:role="line"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          id="tspan6878">repository pattern</tspan></text>
     <rect
        ry="7.2499976"
@@ -2322,13 +2286,12 @@
        style="fill:#008080;fill-opacity:0.67058824;stroke:#2d2c2c;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77514792" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="619.86151"
        y="927.1712"
-       id="text6882"
-       sodipodi:linespacing="125%"><tspan
+       id="text6882"><tspan
          id="tspan6884"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          sodipodi:role="line"
          x="619.86151"
          y="927.1712">multitenancy</tspan></text>
@@ -2341,16 +2304,15 @@
        id="rect3744"
        style="fill:#008080;fill-opacity:0.67058824;stroke:#2d2c2c;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77514792" />
     <text
-       sodipodi:linespacing="125%"
        id="text3746"
        y="905.1712"
        x="574.42969"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="905.1712"
          x="574.42969"
          sodipodi:role="line"
-         style="font-size:10px;fill:#ffffff"
+         style="font-size:10px;line-height:1.25;fill:#ffffff"
          id="tspan3748">product design &amp; prototyping</tspan></text>
     <circle
        style="fill:#008080;fill-opacity:1;stroke:#2d2c2c;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.77514792"
@@ -2368,5 +2330,49 @@
        width="236.97466"
        clip-path="url(#clipPath4416)"
        transform="matrix(0.78947365,0,0,0.79407701,298.11682,77.121452)" />
+    <text
+       id="text1248"
+       y="201.96388"
+       x="307.02811"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:TakaoPGothic;-inkscape-font-specification:TakaoPGothic;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan1240"
+         y="201.96388"
+         x="307.02811"
+         sodipodi:role="line"
+         style="font-size:11.25px;line-height:1.25"><tspan
+           id="tspan1232"
+           style="fill:#008080">SENIOR SOFTWARE ENGINEER, Sunway Technology Group</tspan><tspan
+           id="tspan1234"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Umpush;-inkscape-font-specification:'Umpush Bold';fill:#008080">,</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Umpush;-inkscape-font-specification:Umpush"
+           id="tspan1236"> [Jan </tspan><tspan
+           style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Umpush;-inkscape-font-specification:'Umpush Oblique'"
+           id="tspan1238">2017 - Now]</tspan></tspan><tspan
+         y="215.67116"
+         x="307.02811"
+         sodipodi:role="line"
+         style="font-size:10px;line-height:1.25"
+         id="tspan1254">As a Senior Software Engineer for e-Procurement platform, my daily activities are: </tspan><tspan
+         y="228.17116"
+         x="307.02811"
+         sodipodi:role="line"
+         style="font-size:10px;line-height:1.25"
+         id="tspan1268">design, develop and implement an integration between e-Procurement environment </tspan><tspan
+         y="240.67116"
+         x="307.02811"
+         sodipodi:role="line"
+         style="font-size:10px;line-height:1.25"
+         id="tspan1258">and ERP environments for 3-way Invoice matching. Leveraging knowledge sharing by </tspan><tspan
+         y="253.17116"
+         x="307.02811"
+         sodipodi:role="line"
+         style="font-size:10px;line-height:1.25"
+         id="tspan1262">providing a coaching and mentorship for teammates to improve their skillset.</tspan><tspan
+         y="260.18091"
+         x="307.02811"
+         sodipodi:role="line"
+         style="font-size:10px;line-height:1.25"
+         id="tspan1264" /></text>
   </g>
 </svg>
