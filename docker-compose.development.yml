@@ -1,0 +1,13 @@
+version: '2'
+services:
+  solaiman.me:
+    container_name: solaiman.me
+    image: alxshelepenok/gatsby-starter-lumen:development
+    build:
+      context: ./
+      dockerfile: Dockerfile.development
+    tty: true
+    volumes:
+      - ./:/usr/src/app
+    ports:
+      - "8000:8000"
