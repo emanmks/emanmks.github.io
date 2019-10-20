@@ -2,7 +2,7 @@
 title: Learning a Machine Learning
 date: "2019-10-13T22:40:32.169Z"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/learning-a-machine-learning/"
 category: "Typography"
 tags:

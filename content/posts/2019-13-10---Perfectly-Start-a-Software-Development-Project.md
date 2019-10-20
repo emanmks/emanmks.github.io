@@ -2,7 +2,7 @@
 title: How To Perfectly Start a Software Development Project
 date: "2019-10-13T11:20Z"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/perfectly-start-a-software-development-project/"
 category: "Development"
 tags:

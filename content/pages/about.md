@@ -1,7 +1,7 @@
 ---
-title: "About me"
+title: "Who am I?"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: ""
 ---
 
-Hi, I am Solaiman Mansyur.
+Hi, I am Solaiman Mansyur: A father of three, a husband and a Software Developer.
