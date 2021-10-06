@@ -6,38 +6,30 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hello there! I am a Senior Software Developer from Makassar, Indonesia.
+Hello there! I am a **Senior Software Developer** from Makassar, Indonesia. Obsessed with well-crafted software craftmanship, Startup culture and remote-first working environment with asynchronous communication.
 
 
-## Obsession & Interest
+## Area of Expertise
 
- * Startup Culture
- * Clean & well-crafted Software
- * Data-driven application design
- * Machine Learning implementation
- * Remote-first working environment with Asynchronous Communication
- * Leadership & Mentoring
- * Agile methodology
+ * Initiate Test-Driven Development Environment
+ * CI & CD Pipeline Setup
+ * Infrastructure as a Code
+ * Technical Leadership & Mentoring
+ * Agile Methodology
 
 
-## Thoughts
+## Tech Stack
 
-Visit my blog: [Blog](https://blog.solaiman.me)
+ * Docker, Docker Compose, Docker Swarm, Kubernetes
+ * PHP, Python, Javascript
+ * Github Actions, Jenkins jobs & pipeline, AWS, Cloudflare
+ * Terraform
 
 
 ## Communication
 
-I can speak in:
-
- * Bahasa Indonesia & Malay
- * English
- * Arabic
-
-I can talk with:
-
- * Engineers
- * Business People
- * Kids
+ * I can speak in: Bahasa Indonesia & Malay, English and Arabic
+ * I can talk with Engineers, Business People, and Kids
 
 
 ## Who Influence my Engineering Mindset
@@ -45,3 +37,8 @@ I can talk with:
 * Robert C Martin
 * Martin Fowler
 * My Self
+
+
+## Thoughts
+
+Visit my blog: [Blog](https://blog.solaiman.me)

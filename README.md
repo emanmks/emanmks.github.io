@@ -2,11 +2,12 @@
 
 ### [Live](https://solaiman.me)
 
-Built with jekyll using Researcher theme.
+Built with [jekyll](https://jekyllrb.com/) using [Researcher](https://github.com/ankitsultana/researcher) theme.
 
 ### Serve Locally
 
 ```
+gem install jekyll
 jekyll serve
 ```
 
