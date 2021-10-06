@@ -6,21 +6,20 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hello there! I am a **Senior Software Developer** from Makassar, Indonesia. Obsessed with well-crafted software craftmanship, Startup culture and remote-first working environment with asynchronous communication.
+A **Senior Software Developer** from Makassar, Indonesia. 13 years professional experience, 8 years in web development. Obsessed with well-crafted software, startup culture and remote-first working environment with asynchronous communication.
 
 
 ## Area of Expertise
 
- * Initiate Test-Driven Development Environment
- * CI & CD Pipeline Setup
+ * Test-Driven Development with Clean Code & Architecture
+ * CI & CD Pipeline
  * Infrastructure as a Code
  * Technical Leadership & Mentoring
- * Agile Methodology
 
 
 ## Tech Stack
 
- * Docker, Docker Compose, Docker Swarm, Kubernetes
+ * Docker, Docker-Compose, Docker Swarm, Kubernetes
  * PHP, Python, Javascript
  * Github Actions, Jenkins jobs & pipeline, AWS, Cloudflare
  * Terraform
@@ -34,8 +33,8 @@ Hello there! I am a **Senior Software Developer** from Makassar, Indonesia. Obse
 
 ## Who Influence my Engineering Mindset
 
-* Robert C Martin
-* Martin Fowler
+* [Robert C Martin](http://blog.cleancoder.com/)
+* [Martin Fowler](https://martinfowler.com/)
 * My Self
 
 
