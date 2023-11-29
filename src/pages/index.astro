@@ -1,0 +1,99 @@
+---
+import PageLayout from "@/layouts/Base";
+import PostPreview from "@/components/blog/PostPreview";
+import SocialList from "@/components/SocialList";
+import { getAllPosts, sortMDByDate } from "@/utils";
+
+const MAX_POSTS = 5;
+const allPosts = await getAllPosts();
+const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
+
+const recentProjects: Array<{ title: string; desc: string; href: string }> = [
+{
+		title: "Echo",
+		desc: "Internal evaluation tool for the team. (Confidential)",
+		href: "https://yopeso.com",
+	},
+	{
+		title: "AddEvent",
+		desc: "Develop ics generator service, A/B Testing tool, API, and more.",
+		href: "https://addevent.com",
+	},
+	{
+		title: "Raffall",
+		desc: "Infra & stack migration, integrations, Bug bounty program and more.",
+		href: "https://raffall.com",
+	},
+	{
+		title: "GEP",
+		desc: "Global supply chain platform for medical supplies. (Confidential)",
+		href: "https://yopeso.com",
+	},
+	{
+		title: "Vacatio",
+		desc: "Leave manegement system for the team. (Confidential)",
+		href: "https://yopeso.com/",
+	},
+	{
+		title: "Pythia",
+		desc: "A bug prediction tool for the team. (Confidential)",
+		href: "https://yopeso.com/",
+	},
+	{
+		title: "Metabuyer",
+		desc: "e-Procurment platform for Sunway Group Malaysia.",
+		href: "https://metabuyer.com",
+	},
+	{
+		title: "LCA",
+		desc: "DMS, Data Sync, ETL & Business Intelligence",
+		href: "https://lca.asia/",
+	},
+];
+---
+
+<PageLayout meta={{ title: "Home" }}>
+	<section>
+		<h1 class="title mb-6">Welcome!</h1>
+		<p class="mb-4">
+			Seasoned Software Developer with 15 years of professional expertise, specializing in web development for the past 10 years.
+      Passionate about crafting exceptional software, thriving in startup environments, and dedicated to the dynamics of remote-first work,
+      embracing asynchronous communication for optimal collaboration."
+		</p>
+		<SocialList />
+	</section>
+	{allPosts.length > 0 && (
+    <section aria-label="Blog post list" class="mt-16">
+      <h2 class="title mb-4 text-xl">Posts</h2>
+      <ul class="space-y-4 sm:space-y-2">
+        {
+          allPostsByDate.map((p) => (
+            <li class="flex flex-col gap-x-2 sm:flex-row">
+              <PostPreview post={p} />
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+  )}
+	<section class="mt-16">
+		<h2 class="title mb-4 text-xl">Recent Works & Involvements</h2>
+		<ul class="space-y-4 sm:space-y-2">
+			{
+				recentProjects.map(({ href, title, desc }) => (
+					<li>
+						<a
+							href={href}
+							target="_blank"
+							rel="noopener noreferrer"
+							class="cactus-link inline-block"
+						>
+							{title}
+						</a>:
+						<p class="inline-block sm:mt-2">{desc}</p>
+					</li>
+				))
+			}
+		</ul>
+	</section>
+</PageLayout>
