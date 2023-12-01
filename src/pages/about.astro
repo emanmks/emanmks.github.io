@@ -1,5 +1,6 @@
 ---
 import PageLayout from "@/layouts/Base";
+import SocialList from "@/components/SocialList";
 
 const meta = {
 	title: "About",
@@ -8,12 +9,32 @@ const meta = {
 ---
 
 <PageLayout meta={meta}>
-	<div class="space-y-6">
+	<section class="space-y-6">
 		<h1 class="title">Who am I?</h1>
-		<p>
-			Seasoned Software Developer with 15 years of professional expertise, specializing in web development for the past 10 years.
-      Passionate about crafting exceptional software, thriving in startup environments, and dedicated to the dynamics of remote-first work,
-      embracing asynchronous communication for optimal collaboration."
-		</p>ß
-	</div>
+    <SocialList />
+		<p class="font-bold">
+			Hi! I am Solaiman Mansyur, a software engineer from Indonesia.
+		</p>
+    <p>
+      With more than 10 years of professional experience in software development.
+      I have worked with various technologies, from frontend to backend, from monolith to microservices,
+      from relational to non-relational databases, from on-premise to cloud infrastructure.
+		</p>
+    <p>
+      I started my career as a Desktop Application Developer using Visual Basic 6.0, MySQL, and Crystal Report, after finishing my diploma back in Sept 2007.
+      I expererienced the pain of maintaining a distributed installation, and the pain of maintaining a desktop application distributed to dozens of clients.
+      Doing data sync everyday from the branch office to the head office, and vice versa. Surprisingly, I got promoted to be a Manager in 3 years.
+      Then failed miserably, as running a business in education sector is not my cup of tea.
+    </p>
+    <p>
+      When doing my final final project to pursue my bachelor degree in 2012, I was sparked by the idea of building a web application.
+      I was amazed by the idea of building a web application that can be accessed by anyone, anywhere, anytime, as long as they have an internet connection.
+      It is solve all the pain that I experienced when building a desktop application. I successfully built a web-based CRM using PHP, MySQL, and CodeIgniter.
+      Then continue with another ambissious project, migrating the desktop applications from my previous work to web-based application.
+    </p>
+    <p class="font-bold">
+      One of the purpose of this site is to share my experiences, so people can learn from my mistakes, and hopefully can avoid the same mistakes.
+      And also to share my knowledge, so people can learn from my knowledge, and hopefully can use it to build something great.
+    </p>
+	</section>
 </PageLayout>
