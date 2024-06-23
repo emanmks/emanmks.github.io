@@ -1,102 +1,29 @@
 ---
-import PageLayout from "@/layouts/Base";
-import PostPreview from "@/components/blog/PostPreview";
-import SocialList from "@/components/SocialList";
-import { getAllPosts, sortMDByDate } from "@/utils";
-
-const MAX_POSTS = 5;
-const allPosts = await getAllPosts();
-const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
-
-const meta = {
-	title: "Home - Solaiman Mansyur",
-	description: "A site about becoming a better developer.",
-};
-
-const recentProjects: Array<{ title: string; desc: string; href: string }> = [
-{
-		title: "Echo",
-		desc: "Internal evaluation tool for the team. (Confidential)",
-		href: "https://yopeso.com",
-	},
-	{
-		title: "AddEvent",
-		desc: "Develop ics generator service, A/B Testing tool, API, and more.",
-		href: "https://addevent.com",
-	},
-	{
-		title: "Raffall",
-		desc: "Infra & stack migration, integrations, Bug bounty program and more.",
-		href: "https://raffall.com",
-	},
-	{
-		title: "GEP",
-		desc: "Global supply chain platform for medical supplies. (Confidential)",
-		href: "https://yopeso.com",
-	},
-	{
-		title: "Vacatio",
-		desc: "Leave manegement system for the team. (Confidential)",
-		href: "https://yopeso.com/",
-	},
-	{
-		title: "Pythia",
-		desc: "A bug prediction tool for the team. (Confidential)",
-		href: "https://yopeso.com/",
-	},
-	{
-		title: "Metabuyer",
-		desc: "e-Procurment platform for Sunway Group Malaysia.",
-		href: "https://metabuyer.com",
-	},
-	{
-		title: "LCA",
-		desc: "DMS, Data Sync, ETL & Business Intelligence",
-		href: "https://lca.asia/",
-	},
-];
+import Layout from '../layouts/Layout.astro';
+import Hero from '../components/Hero.astro';
+import RecentWorks from '../components/RecentWorks.astro';
+import Portfolio from '../components/Portfolio.astro';
+import Experience from '../components/Experience.astro';
+import Education from '../components/Education.astro';
+import Testimonial from '../components/Testimonial.astro';
+import Brands from '../components/Brands.astro';
+import Footer from '../components/Footer.astro';
 ---
 
-<PageLayout meta={meta}>
-	<section>
-		<h1 class="title mb-6">Welcome!</h1>
-		<p>
-			This is a personal site about me, my works, and my thoughts.
-      Mostly in Software Engineering, but sometimes I write about other things too.
-		</p>
-	</section>
-	{allPosts.length > 0 && (
-    <section aria-label="Blog post list" class="mt-16">
-      <h2 class="title mb-4 text-xl">Posts</h2>
-      <ul class="space-y-4 sm:space-y-2">
-        {
-          allPostsByDate.map((p) => (
-            <li class="flex flex-col gap-x-2 sm:flex-row">
-              <PostPreview post={p} />
-            </li>
-          ))
-        }
-      </ul>
-    </section>
-  )}
-	<section class="mt-16">
-		<h2 class="title mb-4 text-xl">Recent Works & Involvements</h2>
-		<ul class="space-y-4 sm:space-y-2">
-			{
-				recentProjects.map(({ href, title, desc }) => (
-					<li>
-						<a
-							href={href}
-							target="_blank"
-							rel="noopener noreferrer"
-							class="cactus-link inline-block"
-						>
-							{title}
-						</a>:
-						<p class="inline-block sm:mt-2">{desc}</p>
-					</li>
-				))
-			}
-		</ul>
-	</section>
-</PageLayout>
+<Layout title="Solaiman Mansyur - Crafting Code, Building Futures">
+	<Hero name='Solaiman Mansyur' title='Software Developer' tagline='Crafting Code, Building Futures' />
+
+	<Portfolio />
+
+	<Experience />
+
+	<Testimonial />
+
+	<Education />
+
+	<Footer />
+</Layout>
+
+<style>
+
+</style>
