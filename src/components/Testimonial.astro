@@ -1,56 +1,77 @@
 ---
+const testimonials = [
+  {
+    name: "Peter Deppe",
+    title: "Engineering Leader at AddEvent, Inc",
+    avatar: "https://eu.ui-avatars.com/api/?name=Peter+Deppe&size=250",
+    quote: "I worked closely with Solaiman for 18 months and was consistently impressed with his commitment, coding ability and communication skills. He quickly learnt the platform and led the way on a number of initiatives using a variety of technologies/languages. I could rely on him to move tasks forward and keep the team updated on progress. It was a pleasure working with Solaiman and he would be a valuable team member to any organization."
+  },
+  {
+    name: "Ahmed Alsalali",
+    title: "Engineering Manager & DevOps Specialist",
+    avatar: "https://eu.ui-avatars.com/api/?name=Ahmed+Alsalali&size=250",
+    quote: "Solaiman's technical expertise is exceptional, solving complex problems with innovative solutions. His seamless integration of new technologies improved our efficiency. His dedication to high-quality delivery and collaborative approach made him a key player in our success. Highly recommended."
+  }
+];
 ---
 
-<section class="py-10 md:py-16">
-
-    <div class="container max-w-screen-xl mx-auto px-4">
-
-        <h1 class="font-medium text-gray-700 text-3xl md:text-4xl mb-5">Testimonial</h1>
-
-        <p class="font-normal text-gray-500 text-xs md:text-base mb-10 md:mb-20">I still keep connected with my previous team-mates and they love to give testimonial</p>
-
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
-          <figure class="max-w-screen-md mx-auto text-center">
-            <svg class="w-10 h-10 mx-auto mb-3 text-gray-400 dark:text-gray-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 18 14">
-                <path d="M6 0H2a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h4v1a3 3 0 0 1-3 3H2a1 1 0 0 0 0 2h1a5.006 5.006 0 0 0 5-5V2a2 2 0 0 0-2-2Zm10 0h-4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h4v1a3 3 0 0 1-3 3h-1a1 1 0 0 0 0 2h1a5.006 5.006 0 0 0 5-5V2a2 2 0 0 0-2-2Z"/>
-            </svg>
-            <blockquote>
-                <p class="text-2xl italic font-medium text-gray-500">
-                  "I worked closely with Solaiman for 18 months and was consistently impressed with his commitment, coding ability and communication skills.
-                  He quickly learnt the platform and led the way on a number of initiatives using a variety of technologies/languages.
-                  I could rely on him to move tasks forward and keep the team updated on progress.
-                  It was a pleasure working with Solaiman and he would be a valuable team member to any organization."
-                </p>
-            </blockquote>
-            <figcaption class="flex items-center justify-center mt-6 space-x-3 rtl:space-x-reverse">
-                <img class="w-6 h-6 rounded-full" src="https://eu.ui-avatars.com/api/?name=Peter+Deppe&size=250" alt="Peter Deppe">
-                <div class="flex items-center divide-x-2 rtl:divide-x-reverse divide-gray-500 dark:divide-gray-700">
-                    <cite class="pe-3 font-medium text-gray-900">Peter Deppe</cite>
-                    <cite class="ps-3 text-sm text-gray-500 dark:text-gray-400">Engineering Leader at AddEvent, Inc</cite>
-                </div>
-            </figcaption>
-          </figure>
-          <figure class="max-w-screen-md mx-auto text-center">
-            <svg class="w-10 h-10 mx-auto mb-3 text-gray-400 dark:text-gray-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 18 14">
-                <path d="M6 0H2a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h4v1a3 3 0 0 1-3 3H2a1 1 0 0 0 0 2h1a5.006 5.006 0 0 0 5-5V2a2 2 0 0 0-2-2Zm10 0h-4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h4v1a3 3 0 0 1-3 3h-1a1 1 0 0 0 0 2h1a5.006 5.006 0 0 0 5-5V2a2 2 0 0 0-2-2Z"/>
-            </svg>
-            <blockquote>
-                <p class="text-2xl italic font-medium text-gray-500">
-                  "Solaiman's technical expertise is exceptional, solving complex problems with innovative solutions. His seamless integration of new technologies improved our efficiency.
-                  His dedication to high-quality delivery and collaborative approach made him a key player in our success.
-                  Highly recommended."
-                </p>
-            </blockquote>
-            <figcaption class="flex items-center justify-center mt-6 space-x-3 rtl:space-x-reverse">
-              <img class="w-6 h-6 rounded-full" src="https://eu.ui-avatars.com/api/?name=Ahmed+Alsalali&size=250" alt="Peter Deppe">
-                <div class="flex items-center divide-x-2 rtl:divide-x-reverse divide-gray-500 dark:divide-gray-700">
-                    <cite class="pe-3 font-medium text-gray-900">Ahmed Alsalali</cite>
-                    <cite class="ps-3 text-sm text-gray-500 dark:text-gray-400">Engineering Manager & DevOps Specialist</cite>
-                </div>
-            </figcaption>
-          </figure>
+<section>
+    <div class="container">
+        <div class="ascii-divider">
+          ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
         </div>
 
-    </div>
+        <h4 style="margin-bottom: 0.5rem; font-weight: 400;">Testimonials</h4>
+        <p style="color: var(--muted-color); margin-bottom: 2rem; font-size: 0.85rem;">What former colleagues or clients say</p>
 
+        <div class="testimonial-list">
+          {testimonials.map((testimonial) => (
+            <div class="testimonial-item">
+              <blockquote style="margin-bottom: 0.75rem; line-height: 1.6; font-style: italic; color: var(--pico-color); font-size: 0.8rem;">
+                "{testimonial.quote}"
+              </blockquote>
+              <div class="testimonial-author">
+                <div>
+                  <div style="color: var(--secondary-color); margin-bottom: 0.1rem; font-size: 0.7rem;">
+                    {testimonial.name}
+                  </div>
+                  <small style="color: var(--muted-color); font-size: 0.65rem;">
+                    {testimonial.title}
+                  </small>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+    </div>
 </section>
+
+<style>
+  .testimonial-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+    max-width: 1000px;
+  }
+
+  .testimonial-item {
+    padding-left: 1rem;
+  }
+
+  .testimonial-author {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  @media (max-width: 768px) {
+    .testimonial-list {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+
+    .testimonial-item {
+      padding-left: 1rem;
+    }
+  }
+</style>

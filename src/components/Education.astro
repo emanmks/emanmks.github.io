@@ -1,44 +1,101 @@
 ---
 ---
 
-<section class="py-10 md:py-16">
+<section>
+    <div class="container">
+        <div class="ascii-divider">
+          ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+        </div>
 
-    <div class="container max-w-screen-xl mx-auto px-4">
+        <h4 style="margin-bottom: 0.5rem; font-weight: 400;">Education</h4>
+        <p style="color: var(--muted-color); margin-bottom: 2rem; font-size: 0.85rem;">Academic background in Information Technology</p>
 
-        <h1 class="font-medium text-gray-700 text-3xl md:text-4xl mb-5">Education</h1>
-
-        <p class="font-normal text-gray-500 text-xs md:text-base mb-20">I pursue my study from Diploma to Bachelor Degree in Information Technology</p>
-
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <div class="bg-gray-50 px-8 py-10 rounded-md">
-                <h4 class="font-medium text-gray-700 text-lg mb-4">2010 – 2012</h4>
-
-                <p class="font-normal text-gray-500 text-md mb-4">
-                  <strong>Bachelor Degree</strong> <br>
-                  Information Technology <br>
-                  Research on how the CRM app can impact customer satisfcation for learning center businesses.
-                </p>
-
-                <div class="relative">
-                    <h6 class="font-semibold text-gray-500 text-md relative z-10">Hasanuddin University, Indonesia</h6>
+        <div class="education-list">
+            <div class="education-item">
+                <div class="education-period">
+                  <span style="font-family: 'Space Mono', monospace; font-size: 0.7rem; color: var(--muted-color);">2010 – 2012</span>
+                </div>
+                <div class="education-divider">
+                  <span style="font-family: monospace; color: var(--border-color); font-size: 1rem;">┊</span>
+                </div>
+                <div class="education-details">
+                  <div style="font-size: 0.9rem; margin-bottom: 0.15rem; color: var(--secondary-color);">Bachelor Degree</div>
+                  <div style="font-size: 0.7rem; color: var(--pico-color); margin-bottom: 0.15rem; line-height: 1.5;">
+                    Information Technology · Research on how the CRM app can impact customer satisfaction for learning center businesses
+                  </div>
+                  <small style="color: var(--muted-color); font-size: 0.65rem;">Hasanuddin University, Indonesia</small>
                 </div>
             </div>
 
-            <div class="bg-gray-50 px-8 py-10 rounded-md">
-              <h4 class="font-medium text-gray-700 text-lg mb-4">2004 – 2007</h4>
-
-              <p class="font-normal text-gray-500 text-md mb-4">
-                <strong>Diploma Degree</strong> <br>
-                Information Technology <br>
-                Research and Final Project on CDMA Customer registration with offline mode support.
-              </p>
-
-              <div class="relative">
-                  <h6 class="font-semibold text-gray-500 text-md relative z-10">Hasanuddin University, Indonesia</h6>
-              </div>
-          </div>
+            <div class="education-item">
+                <div class="education-period">
+                  <span style="font-family: 'Space Mono', monospace; font-size: 0.7rem; color: var(--muted-color);">2004 – 2007</span>
+                </div>
+                <div class="education-divider">
+                  <span style="font-family: monospace; color: var(--border-color); font-size: 1rem;">┊</span>
+                </div>
+                <div class="education-details">
+                  <div style="font-size: 0.9rem; margin-bottom: 0.15rem; color: var(--secondary-color);">Diploma Degree</div>
+                  <div style="font-size: 0.7rem; color: var(--pico-color); margin-bottom: 0.15rem; line-height: 1.5;">
+                    Information Technology · CDMA Customer registration system with offline mode support
+                  </div>
+                  <small style="color: var(--muted-color); font-size: 0.65rem;">Hasanuddin University, Indonesia</small>
+                </div>
+            </div>
         </div>
-
     </div>
-
 </section>
+
+<style>
+  .education-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    max-width: 1000px;
+  }
+
+  .education-item {
+    display: grid;
+    grid-template-columns: 110px 20px 1fr;
+    gap: 0.75rem;
+    align-items: start;
+    padding: 0.25rem 0;
+    border-bottom: 1px dashed var(--border-color);
+  }
+
+  .education-item:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .education-period {
+    text-align: right;
+    padding-top: 0.125rem;
+  }
+
+  .education-divider {
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 1;
+    padding-top: 0.125rem;
+  }
+
+  .education-details {
+    line-height: 1.6;
+  }
+
+  @media (max-width: 768px) {
+    .education-item {
+      grid-template-columns: 1fr;
+      gap: 0.25rem;
+    }
+
+    .education-period {
+      text-align: left;
+    }
+
+    .education-divider {
+      display: none;
+    }
+  }
+</style>

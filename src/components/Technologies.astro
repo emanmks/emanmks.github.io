@@ -1,0 +1,77 @@
+---
+import { Icon } from 'astro-icon/components'
+
+const technologies = [
+  { name: "TypeScript", icon: "typescript" },
+  { name: "JavaScript", icon: "node" },
+  { name: "Python", icon: "python" },
+  { name: "Go", icon: "go" },
+  { name: "PHP", icon: "php" },
+  { name: "MySQL", icon: "mysql" },
+  { name: "PostgreSQL", icon: "postgres" },
+  { name: "Firebase", icon: "firebase" },
+  { name: "Docker", icon: "docker" },
+  { name: "Kubernetes", icon: "kubernetes" },
+  { name: "AWS", icon: "aws" },
+  { name: "Google Cloud", icon: "gcloud" },
+  { name: "Digital Ocean", icon: "digitalocean" },
+  { name: "Next.js", icon: "next" },
+  { name: "Angular", icon: "angular" },
+  { name: "GitLab", icon: "gitlab" },
+  { name: "GitHub", icon: "github" },
+  { name: "Jira", icon: "jira" },
+
+];
+---
+
+<section>
+  <div class="container">
+    <div class="ascii-divider">
+      ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+    </div>
+
+    <h4 style="margin-bottom: 0.5rem; font-weight: 400;">Technologies</h4>
+    <p style="color: var(--muted-color); margin-bottom: 2rem; font-size: 0.85rem;">Tools and technologies I've worked with</p>
+
+    <div class="tech-grid">
+      {technologies.map((tech) => (
+        <div class="tech-item">
+          <Icon name={tech.icon} style="width: 20px; height: 20px; display: inline-block; opacity: 0.6; margin-right: 0.5rem; vertical-align: middle;" />
+          <span style="font-size: 0.75rem; color: var(--pico-color);">{tech.name}</span>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
+<style>
+  .tech-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 0.75rem;
+    max-width: 1000px;
+  }
+
+  .tech-item {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 0.75rem;
+    border: 1px dashed var(--border-color);
+    transition: opacity 0.2s ease;
+  }
+
+  .tech-item:hover {
+    opacity: 0.7;
+  }
+
+  @media (max-width: 768px) {
+    .tech-grid {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 0.5rem;
+    }
+
+    .tech-item {
+      padding: 0.4rem 0.6rem;
+    }
+  }
+</style>

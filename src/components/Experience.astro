@@ -1,110 +1,129 @@
 ---
+const experiences = [
+  {
+    company: "Yopeso",
+    location: "Remote",
+    position: "Senior Software Developer",
+    period: "Mar 2019 - Now"
+  },
+  {
+    company: "Metacloud (Sunway Technology Group)",
+    location: "Petaling Jaya, Malaysia",
+    position: "Senior Software Engineer",
+    period: "Jan 2017 - Feb 2019"
+  },
+  {
+    company: "Logistics Consulting Asia",
+    location: "Petaling Jaya, Malaysia",
+    position: "Application Developer",
+    period: "Sep 2015 - Jan 2017"
+  },
+  {
+    company: "CloudApps Technology",
+    location: "Remote",
+    position: "Senior Web Developer",
+    period: "Feb 2015 - Sep 2015"
+  },
+  {
+    company: "Various companies in Indonesia",
+    location: "Makassar, Indonesia",
+    position: "Desktop Programmer, Web Developer, Branch Manager",
+    period: "Sep 2007 - Jan 2015"
+  }
+];
 ---
 
-<section class="py-10 md:py-16">
-
-    <div class="container max-w-screen-xl mx-auto px-4">
-
-        <h1 class="font-medium text-gray-700 text-3xl md:text-4xl mb-5">Experience</h1>
-
-        <p class="font-normal text-gray-500 text-xs md:text-base mb-20">For years I have been involved and worked with projects, clients and companies</p>
-
-        <div class="relative overflow-x-auto shadow-md sm:rounded-lg">
-        <!-- <div class="flex flex-col lg:flex-row justify-between relative overflow-x-auto shadow-md sm:rounded-lg"> -->
-
-          <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
-            <thead class="text-xs text-gray-700 uppercase dark:text-gray-400">
-                <tr>
-                    <th scope="col" class="px-6 py-3 bg-gray-50 dark:bg-gray-800">
-                        Company / Employer / Client
-                    </th>
-                    <th scope="col" class="px-6 py-3">
-                        Location
-                    </th>
-                    <th scope="col" class="px-6 py-3 bg-gray-50 dark:bg-gray-800">
-                        Position
-                    </th>
-                    <th scope="col" class="px-6 py-3">
-                        Period
-                    </th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr class="border-b border-gray-200 dark:border-gray-700">
-                    <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                      Yopeso
-                    </th>
-                    <td class="px-6 py-4">
-                      Remote
-                    </td>
-                    <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                      Senior Web Developer
-                    </td>
-                    <td class="px-6 py-4">
-                      Mar 2019 - Now
-                    </td>
-                </tr>
-                <tr class="border-b border-gray-200 dark:border-gray-700">
-                    <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                      Metacloud (Sunway Technology Group)
-                    </th>
-                    <td class="px-6 py-4">
-                      Petaling Jaya, Malaysia
-                    </td>
-                    <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                      Senior Software Engineer
-                    </td>
-                    <td class="px-6 py-4">
-                      Jan 2017 - Feb 2019
-                    </td>
-                </tr>
-                <tr class="border-b border-gray-200 dark:border-gray-700">
-                    <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                      Logistics Consulting Asia
-                    </th>
-                    <td class="px-6 py-4">
-                      Petaling Jaya, Malaysia
-                    </td>
-                    <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                      Application Developer
-                    </td>
-                    <td class="px-6 py-4">
-                      Sep 2015 - Jan 2017
-                    </td>
-                </tr>
-                <tr class="border-b border-gray-200 dark:border-gray-700">
-                    <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                      CloudApps Technology
-                    </th>
-                    <td class="px-6 py-4">
-                      Remote
-                    </td>
-                    <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                      Senior Web Developer
-                    </td>
-                    <td class="px-6 py-4">
-                      Feb 2015 - Sep 2015
-                    </td>
-                </tr>
-                <tr>
-                  <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
-                    Various companies in Indonesia
-                  </th>
-                  <td class="px-6 py-4">
-                    Makassar, Indonesia
-                  </td>
-                  <td class="px-6 py-4 bg-gray-50 dark:bg-gray-800">
-                    Desktop Programmer, Web Developer, Branch Manager
-                  </td>
-                  <td class="px-6 py-4">
-                    Sep 2007 - Jan 2015
-                  </td>
-              </tr>
-            </tbody>
-        </table>
-
+<section>
+    <div class="container">
+        <div class="ascii-divider">
+          ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
         </div>
 
-    </div>
+        <h4 style="margin-bottom: 0.5rem; font-weight: 400;">Experience</h4>
+        <p style="color: var(--muted-color); margin-bottom: 2rem; font-size: 0.85rem;">15+ years working with teams and companies</p>
 
+        <div class="experience-list">
+          {experiences.map((exp, index) => (
+            <div class="experience-row">
+              <div class="experience-period">
+                <span style="font-family: 'Space Mono', monospace; font-size: 0.7rem; color: var(--muted-color);">
+                  {exp.period}
+                </span>
+              </div>
+              <div class="experience-divider">
+                <span style="font-family: monospace; color: var(--border-color); font-size: 1rem;">┊</span>
+              </div>
+              <div class="experience-details">
+                <div style="font-size: 0.9rem; margin-bottom: 0.15rem; color: var(--secondary-color);">
+                  {exp.company}
+                </div>
+                <div style="font-size: 0.7rem; color: var(--pico-color); margin-bottom: 0.15rem;">
+                  {exp.position}
+                </div>
+                <div style="font-size: 0.65rem; color: var(--muted-color);">
+                  {exp.location}
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+    </div>
 </section>
+
+<style>
+  .experience-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    max-width: 1000px;
+  }
+
+  .experience-row {
+    display: grid;
+    grid-template-columns: 110px 20px 1fr;
+    gap: 0.75rem;
+    align-items: start;
+    padding: 0.25rem 0;
+    border-bottom: 1px dashed var(--border-color);
+    transition: opacity 0.2s ease;
+  }
+
+  .experience-row:last-child {
+    border-bottom: none;
+  }
+
+  .experience-row:hover {
+    opacity: 0.7;
+  }
+
+  .experience-period {
+    text-align: right;
+    padding-top: 0.125rem;
+  }
+
+  .experience-divider {
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 1;
+    padding-top: 0.125rem;
+  }
+
+  .experience-details {
+    line-height: 1.6;
+  }
+
+  @media (max-width: 768px) {
+    .experience-row {
+      grid-template-columns: 1fr;
+      gap: 0.25rem;
+    }
+
+    .experience-period {
+      text-align: left;
+    }
+
+    .experience-divider {
+      display: none;
+    }
+  }
+</style>

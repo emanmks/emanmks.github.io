@@ -2,18 +2,37 @@
 import { Icon } from 'astro-icon/components';
 ---
 
-<footer class="py-10 md:py-16 mb-20 md:mb-40 lg::mb-52">
-    <div class="container max-w-screen-xl mx-auto px-4">
-
-        <div class="text-center">
-            <p class="font-normal text-gray-400 text-md md:text-lg mb-10">I’m not currently taking on new client work but feel free to contact me for any <br> other inquiries.</p>
-
-            <div class="flex items-center justify-center space-x-8">
-                <a href="https://github.com/emanmks" class="w-16 h-16 flex items-center justify-center rounded-full hover:bg-gray-200 transition ease-in-out duration-500">
-                    <Icon name="lucide:github" class="text-gray-500 hover:text-gray-800 transition ease-in-out duration-500" />
-                </a>
-            </div>
+<footer>
+    <div class="container">
+        <div class="ascii-divider">
+          ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
         </div>
 
+        <div style="text-align: center; max-width: 700px; margin: 0 auto;">
+            <p style="color: var(--muted-color); font-size: 0.85rem; margin-bottom: 2rem; line-height: 1.7;">
+              Open to new opportunities and collaborations. Feel free to reach out.
+            </p>
+
+            <div style="margin-bottom: 3rem;">
+                <a href="mailto:solaiman.mansyur@gmail.com" style="color: var(--secondary-color); font-size: 0.75rem; font-family: 'Space Mono', monospace; display: block; margin-bottom: 0.5rem; border-bottom: none;">
+                  solaiman.mansyur@gmail.com
+                </a>
+            </div>
+
+            <div class="ascii-divider" style="font-size: 0.65rem; margin: 2rem 0 1rem 0;">
+              · · ·
+            </div>
+
+            <small style="color: var(--muted-color); font-family: 'Space Mono', monospace; font-size: 0.7rem;">
+              © {new Date().getFullYear()} Solaiman Mansyur
+            </small>
+        </div>
     </div>
 </footer>
+
+<style>
+  footer {
+    margin-top: 6rem;
+    margin-bottom: 4rem;
+  }
+</style>
