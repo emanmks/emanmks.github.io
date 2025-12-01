@@ -21,8 +21,10 @@ const testimonials = [
           ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
         </div>
 
-        <h4 style="margin-bottom: 0.5rem; font-weight: 400;">Testimonials</h4>
-        <p style="color: var(--muted-color); margin-bottom: 2rem; font-size: 0.85rem;">What former colleagues or clients say</p>
+        <div style="text-align: center; max-width: 1000px; margin: 0 auto;">
+          <h2 style="margin-bottom: 0.5rem; font-weight: 400; font-size: 1.5rem;">Testimonials</h2>
+          <p style="color: var(--muted-color); margin-bottom: 2rem; font-size: 0.85rem;">What former colleagues or clients say</p>
+        </div>
 
         <div class="testimonial-list">
           {testimonials.map((testimonial) => (
@@ -52,6 +54,7 @@ const testimonials = [
     grid-template-columns: repeat(2, 1fr);
     gap: 2rem;
     max-width: 1000px;
+    margin: 0 auto;
   }
 
   .testimonial-item {

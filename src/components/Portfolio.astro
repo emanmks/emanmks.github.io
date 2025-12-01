@@ -3,14 +3,14 @@
 const projects = [
   {
     title: "Platform Administration Tool",
-    description: "Major refactoring from old technologies to modern technologies to improve the user experience and performance.",
+    description: "Major refactoring from old technologies to modern technologies to improve the user experience and performance of the legacy platform administration tool.",
     company: "SIDES",
     location: "Germany",
     icons: ["mysql", "aws", "node", "typescript", "go", "php", "docker", "gitlab", "jira"]
   },
   {
     title: "Production Manager",
-    description: "Doing integrations to load the customer's pre-orders and with the delivery services for the delivery.",
+    description: "Crafting integrations between ordering systems and various 3rd party logistics providers to streamline order fulfillment processes.",
     company: "SIDES",
     location: "Netherland, Belgium",
     icons: ["firebase", "gcloud", "node", "typescript", "go", "php", "docker", "gitlab", "jira"]
@@ -38,27 +38,27 @@ const projects = [
   },
   {
     title: "AWS Migration",
-    description: "Working with a cross functional team to migrate the infrastructure from Digital Ocean to AWS.",
+    description: "Working with a cross functional team to migrate the infrastructure from old infrastructure to AWS.",
     company: "Raffall",
     location: "UK",
     icons: ["php", "mysql", "docker", "digitalocean", "aws", "kubernetes", "github", "jira"]
   },
+  // {
+  //   title: "Venti (GEP)",
+  //   description: "A web platform to help the countries to get the medical supplies they need, especially during the Covid-19 pandemic.",
+  //   company: "Yopeso",
+  //   location: "Malaysia",
+  //   icons: ["php", "mysql", "docker", "aws", "github"]
+  // },
+  // {
+  //   title: "Vacatio",
+  //   description: "Internal leave management system for the company to manage the employee's leave.",
+  //   company: "Yopeso",
+  //   location: "Malaysia",
+  //   icons: ["php", "mysql", "docker", "aws", "github"]
+  // },
   {
-    title: "Venti (GEP)",
-    description: "A web platform to help the countries to get the medical supplies they need, especially during the Covid-19 pandemic.",
-    company: "Yopeso",
-    location: "Malaysia",
-    icons: ["php", "mysql", "docker", "aws", "github"]
-  },
-  {
-    title: "Vacatio",
-    description: "Internal leave management system for the company to manage the employee's leave.",
-    company: "Yopeso",
-    location: "Malaysia",
-    icons: ["php", "mysql", "docker", "aws", "github"]
-  },
-  {
-    title: "Pythia",
+    title: "Bug Prediction System",
     description: "Bug prediction using bug-caching technique. The prediction is used to check the possibility of the merge request to introduce a bug.",
     company: "Yopeso",
     location: "Malaysia",
@@ -87,8 +87,8 @@ const projects = [
   },
   {
     title: "Various Projects",
-    description: "Various web-based projects for small-medium enterprises in Indonesia, ranging from education information system, Point of Sale, and website systems.",
-    company: "Various Clients",
+    description: "Various software projects for government and private companies in Indonesia.",
+    company: "Government & Private Companies",
     location: "Makassar, Indonesia",
     icons: ["php", "postgres", "mysql"]
   }
@@ -101,14 +101,16 @@ const projects = [
       ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
     </div>
 
-    <h4 style="margin-bottom: 0.5rem; font-weight: 400;">Projects</h4>
-    <p style="color: var(--muted-color); margin-bottom: 2rem; font-size: 0.85rem;">15 years building software across various sectors</p>
+    <div style="text-align: center; max-width: 1000px; margin: 0 auto;">
+      <h2 style="margin-bottom: 0.5rem; font-weight: 400; font-size: 1.5rem;">Projects</h2>
+      <p style="color: var(--muted-color); margin-bottom: 2rem; font-size: 0.85rem;">15+ years building software across various sectors</p>
+    </div>
 
     <div class="project-list">
       {projects.map((project) => (
         <div class="project-item">
           <div class="project-header">
-            <h4 style="font-size: 0.9rem; margin-bottom: 0.15rem; font-weight: 400;">{project.title}</h4>
+            <h3 style="font-size: 0.9rem; margin-bottom: 0.15rem; font-weight: 400;">{project.title}</h3>
             <small style="color: var(--secondary-color); font-size: 0.7rem;">{project.company}</small>
           </div>
           <p style="margin-bottom: 0.15rem; color: var(--pico-color); font-size: 0.7rem; line-height: 1.5;">
@@ -126,6 +128,7 @@ const projects = [
     grid-template-columns: repeat(2, 1fr);
     gap: 1.5rem 2rem;
     max-width: 1000px;
+    margin: 0 auto;
   }
 
   .project-item {

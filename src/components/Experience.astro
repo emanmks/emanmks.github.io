@@ -39,8 +39,10 @@ const experiences = [
           ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
         </div>
 
-        <h4 style="margin-bottom: 0.5rem; font-weight: 400;">Experience</h4>
-        <p style="color: var(--muted-color); margin-bottom: 2rem; font-size: 0.85rem;">15+ years working with teams and companies</p>
+        <div style="text-align: center; max-width: 1000px; margin: 0 auto;">
+          <h2 style="margin-bottom: 0.5rem; font-weight: 400; font-size: 1.5rem;">Experience</h2>
+          <p style="color: var(--muted-color); margin-bottom: 2rem; font-size: 0.85rem;">15+ years working with teams and companies</p>
+        </div>
 
         <div class="experience-list">
           {experiences.map((exp, index) => (
@@ -76,6 +78,7 @@ const experiences = [
     flex-direction: column;
     gap: 1.5rem;
     max-width: 1000px;
+    margin: 0 auto;
   }
 
   .experience-row {
