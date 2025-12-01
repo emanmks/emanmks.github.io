@@ -23,21 +23,21 @@ const testimonials = [
 
         <div style="text-align: center; max-width: 1000px; margin: 0 auto;">
           <h2 style="margin-bottom: 0.5rem; font-weight: 400; font-size: 1.5rem;">Testimonials</h2>
-          <p style="color: var(--muted-color); margin-bottom: 2rem; font-size: 0.85rem;">What former colleagues or clients say</p>
+          <p style="color: var(--text-secondary); margin-bottom: 2rem; font-size: 0.85rem;">What former colleagues or clients say</p>
         </div>
 
         <div class="testimonial-list">
           {testimonials.map((testimonial) => (
             <div class="testimonial-item">
-              <blockquote style="margin-bottom: 0.75rem; line-height: 1.6; font-style: italic; color: var(--pico-color); font-size: 0.8rem;">
+              <blockquote style="margin-bottom: 0.75rem; line-height: 1.6; font-style: italic; color: var(--text-primary); font-size: 0.8rem;">
                 "{testimonial.quote}"
               </blockquote>
               <div class="testimonial-author">
                 <div>
-                  <div style="color: var(--secondary-color); margin-bottom: 0.1rem; font-size: 0.7rem;">
+                  <div style="color: var(--text-secondary); margin-bottom: 0.1rem; font-size: 0.7rem;">
                     {testimonial.name}
                   </div>
-                  <small style="color: var(--muted-color); font-size: 0.65rem;">
+                  <small style="color: var(--text-secondary); font-size: 0.65rem;">
                     {testimonial.title}
                   </small>
                 </div>

@@ -32,14 +32,14 @@ const technologies = [
 
     <div style="text-align: center; max-width: 1000px; margin: 0 auto;">
       <h2 style="margin-bottom: 0.5rem; font-weight: 400; font-size: 1.5rem;">Technologies</h2>
-      <p style="color: var(--muted-color); margin-bottom: 2rem; font-size: 0.85rem;">Tools and technologies I've worked with</p>
+      <p style="color: var(--text-secondary); margin-bottom: 2rem; font-size: 0.85rem;">Tools and technologies I've worked with</p>
     </div>
 
     <div class="tech-grid">
       {technologies.map((tech) => (
         <div class="tech-item">
           <Icon name={tech.icon} style="width: 20px; height: 20px; display: inline-block; opacity: 0.6; margin-right: 0.5rem; vertical-align: middle;" />
-          <span style="font-size: 0.75rem; color: var(--pico-color);">{tech.name}</span>
+          <span style="font-size: 0.75rem; color: var(--text-primary);">{tech.name}</span>
         </div>
       ))}
     </div>
