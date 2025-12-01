@@ -116,4 +116,47 @@ const { title } = Astro.props;
 	section {
 		margin-bottom: 4rem;
 	}
+
+	/* Dark mode with warm sunrise white text */
+	@media (prefers-color-scheme: dark) {
+		:root {
+			--pico-background-color: #0a0a0a;
+			--pico-color: #fef9f0;
+			--text-primary: #fef9f0;
+			--text-secondary: #f5ebe0;
+			--primary-color: #d4a574;
+			--secondary-color: #f5ebe0;
+			--accent-color: #d4a574;
+			--muted-color: #a89584;
+			--border-color: #3a3a3a;
+		}
+
+		h1, h2, h3, h4, h5, h6 {
+			color: var(--text-primary);
+		}
+
+		.hero-ascii {
+			color: var(--primary-color);
+		}
+
+		.ascii-divider {
+			color: var(--muted-color);
+		}
+
+		.tech-badge {
+			background: #1a1a1a;
+			border-color: var(--border-color);
+			color: var(--text-secondary);
+		}
+
+		a {
+			color: var(--primary-color);
+			border-bottom-color: var(--border-color);
+		}
+
+		a:hover {
+			color: var(--secondary-color);
+			border-bottom-color: var(--primary-color);
+		}
+	}
 </style>
