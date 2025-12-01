@@ -15,5 +15,6 @@
     "astro": "^4.10.3",
     "astro-icon": "^1.1.0",
     "typescript": "^5.4.5"
-  }
+  },
+  "license": "UNLICENSED"
 }
