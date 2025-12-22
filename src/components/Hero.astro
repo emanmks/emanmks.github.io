@@ -8,7 +8,7 @@ interface Props {
 const { name, title, tagline } = Astro.props;
 ---
 
-<section>
+<header>
     <div class="container">
         <div style="text-align: center; max-width: 700px; margin: 6rem auto 4rem auto;">
             <div class="ascii-divider">
@@ -22,4 +22,4 @@ const { name, title, tagline } = Astro.props;
             <p style="color: var(--muted-color); font-size: 0.75rem; font-family: 'Space Mono', monospace;">{tagline ?? 'Solving Problems, Crafting Code, Building Futures'}</p>
         </div>
     </div>
-</section>
+</header>

@@ -20,14 +20,22 @@ const { title } = Astro.props;
       	<link rel="icon" sizes="512x512" href="/android-chrome-512x512.png" />
       	<link rel="manifest" href="/site.webmanifest" />
 		<meta name="generator" content={Astro.generator} />
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css" />
+		<title>{title}</title>
+		<style is:inline>
+			:root{--pico-font-family:'Courier Prime','Courier New',monospace;--pico-font-size:18px;--pico-line-height:1.7;--pico-background-color:#fff;--pico-color:#1a1a1a;--primary-color:#704020;--secondary-color:#2d1f0f;--text-primary:#1a1a1a;--text-secondary:#3a3a3a;--muted-color:#5a5a5a;--border-color:#999}body{background:var(--pico-background-color);color:var(--pico-color);font-family:var(--pico-font-family);margin:0;padding:0}h1,h2,h3{font-family:'Space Mono','Courier Prime',monospace;color:var(--secondary-color);font-weight:700}@media (prefers-color-scheme:dark){:root{--pico-background-color:#0a0a0a;--pico-color:#f5f5f5;--text-primary:#f5f5f5;--text-secondary:#d0d0d0;--primary-color:#e5a85f;--secondary-color:#f5f5f5;--muted-color:#b0b0b0;--border-color:#666}h1,h2,h3{color:var(--text-primary)}}
+		</style>
+		<link rel="preconnect" href="https://cdn.jsdelivr.net">
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-		<title>{title}</title>
+		<link rel="preload" as="style" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css" onload="this.onload=null;this.rel='stylesheet'">
+		<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css" /></noscript>
+		<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=Space+Mono:wght@400;700&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+		<noscript><link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" /></noscript>
 	</head>
 	<body>
-		<slot />
+		<main>
+			<slot />
+		</main>
 	</body>
 </html>
 
@@ -40,13 +48,13 @@ const { title } = Astro.props;
 		/* Warm, calming color palette - WCAG AA compliant */
 		--pico-background-color: #ffffff;
 		--pico-color: #1a1a1a;
-		--primary-color: #8b4b2f;
-		--secondary-color: #3a2a19;
-		--accent-color: #8b4b2f;
-		--muted-color: #3a2a19;
-		--border-color: #c4b5ad;
+		--primary-color: #704020;
+		--secondary-color: #2d1f0f;
+		--accent-color: #704020;
+		--muted-color: #5a5a5a;
+		--border-color: #999999;
 		--text-primary: #1a1a1a;
-		--text-secondary: #2a2a2a;
+		--text-secondary: #3a3a3a;
 
 		--pico-primary: var(--primary-color);
 		--pico-secondary: var(--secondary-color);
@@ -121,14 +129,14 @@ const { title } = Astro.props;
 	@media (prefers-color-scheme: dark) {
 		:root {
 			--pico-background-color: #0a0a0a;
-			--pico-color: #fef9f0;
-			--text-primary: #fef9f0;
-			--text-secondary: #f5ebe0;
-			--primary-color: #f5c98f;
-			--secondary-color: #fef9f0;
-			--accent-color: #f5c98f;
-			--muted-color: #e5d5c5;
-			--border-color: #5a5a5a;
+			--pico-color: #f5f5f5;
+			--text-primary: #f5f5f5;
+			--text-secondary: #d0d0d0;
+			--primary-color: #e5a85f;
+			--secondary-color: #f5f5f5;
+			--accent-color: #e5a85f;
+			--muted-color: #b0b0b0;
+			--border-color: #666666;
 		}
 
 		h1, h2, h3, h4, h5, h6 {
